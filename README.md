@@ -31,7 +31,7 @@ Download the latest release from [Releases](https://github.com/Taha95-dev/Path-F
 
 ## Or Build from Source
 
-git clone https://github.com/YOUR_USERNAME/pathfix
+git clone https://github.com/Taha95-dev/pathfix
 cd pathfix
 go build -o pathfix
 
