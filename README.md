@@ -27,7 +27,7 @@ pathfix nvim
 
 ## Installation
 Download Binary
-Download the latest release from Releases
+Download the latest release from [Releases](https://github.com/Taha95-dev/Path-Fix/releases)
 
 ## Or Build from Source
 
